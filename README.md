@@ -1,4 +1,3 @@
----
 
 # Hybrid Centrality-Guided Graph Neural Networks for Influential Node Ranking
 
@@ -15,7 +14,6 @@ to accurately rank nodes according to their influence in information diffusion a
 
 The framework is evaluated on real-world benchmark networks from SNAP and demonstrates strong performance, outperforming traditional centrality-based approaches and standalone GNN models.
 
----
 
 ## Key Contributions
 
@@ -338,7 +336,7 @@ while maintaining strong zero-shot generalization across multiple real-world net
 ```bibtex
 @article{kennedy2026hgnn,
   title={Hybrid Centrality-Guided Graph Neural Networks for Influential Node Ranking},
-  author={Kennedy, Sandhiya},
+  author={Kennedy Sandhiya},
   year={2026}
 }
 ```
